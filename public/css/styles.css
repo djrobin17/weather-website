@@ -45,6 +45,8 @@ header a {
 }
 
 input {
+    height: auto;
+    width: 50%;
     border: 1px solid #cccccc;
     padding: 8px;
     border-radius: 25px;
